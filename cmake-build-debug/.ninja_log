@@ -1,0 +1,10 @@
+# ninja log v5
+51	100	1699092746730394578	tugas_palindrom	6618caef21c01c25
+0	28	1699093060416359997	build.ninja	58a7a6fad7889e15
+0	50	1699092746678394198	CMakeFiles/tugas_palindrom.dir/main.c.o	fac5ee0f3305f686
+0	142	1699093064500382790	CMakeFiles/tugas_palindrom.dir/main.c.o	fac5ee0f3305f686
+142	198	1699093064556383102	tugas_palindrom	6618caef21c01c25
+0	57	1699093686223678049	CMakeFiles/tugas_palindrom.dir/main.c.o	fac5ee0f3305f686
+58	106	1699093686271676779	tugas_palindrom	6618caef21c01c25
+0	51	1699093947106028321	CMakeFiles/tugas_palindrom.dir/main.c.o	fac5ee0f3305f686
+52	99	1699093947154027478	tugas_palindrom	6618caef21c01c25
